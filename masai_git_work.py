@@ -1,2 +1,6 @@
 print("A")
 print("B")
+print("c")
+print("kani")
+print("thiru")
+print("sai")
